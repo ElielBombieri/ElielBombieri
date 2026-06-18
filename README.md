@@ -21,7 +21,7 @@ Meu dia a dia vive dentro do ecossistema **Sankhya ERP**: configurações, integ
  
 Não sou mestre em nada ainda — mas estou no caminho. E o caminho, pra mim, é tão importante quanto o destino.
  
-*(Sim, essa é uma referência ao Senhor dos Anéis. Sim, sou fã assumido.)*
+*(É uma referência ao Senhor dos Anéis)*
  
 ---
 
