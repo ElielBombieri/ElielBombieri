@@ -12,17 +12,17 @@
 </div>
 
 ---
-
+ 
 ## Sobre mim
-
-Sou desenvolvedor back-end trabalhando na **Patrimonial Segurança**, onde atuo como desenvolvedor solo — o que significa que aprendo na prática, erro na prática, e resolvo na prática.
-
+ 
+Sou desenvolvedor back-end trabalhando na **Patrimonial Segurança**, onde faço parte de uma equipe de desenvolvimento — aprendo na prática, erro na prática, e resolvo na prática, junto com pessoas boas ao redor.
+ 
 Meu dia a dia vive dentro do ecossistema **Sankhya ERP**: configurações, integrações e desenvolvimento de regras de negócio em Java. Paralelamente, estou construindo minha base em Node.js com NestJS e TypeORM, explorando o universo de dados com Python, e aprendendo a transformar caos em sistemas que funcionam.
-
+ 
 Não sou mestre em nada ainda — mas estou no caminho. E o caminho, pra mim, é tão importante quanto o destino.
-
+ 
 *(Sim, essa é uma referência ao Senhor dos Anéis. Sim, sou fã assumido.)*
-
+ 
 ---
 
 ## Stack & Tecnologias
