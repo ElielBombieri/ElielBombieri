@@ -41,9 +41,7 @@ Não sou mestre em nada ainda — mas estou no caminho. E o caminho, pra mim, é
 - PostgreSQL
 
 **Ferramentas**
-- Docker · DBeaver · Git
-
-> *Ainda sem SpringBoot — estou construindo os alicerces antes de erguer a torre.*
+- Docker · DBeaver · Github
 
 ---
 
