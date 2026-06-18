@@ -7,7 +7,7 @@
 <br/>
 
 # Eliel Bombieri
-**Desenvolvedor Back-end** · Prudentópolis, PR 🇧🇷
+**Desenvolvedor Back-end** · Chapecó, SC 🇧🇷
 
 </div>
 
