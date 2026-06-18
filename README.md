@@ -37,6 +37,7 @@ Não sou mestre em nada ainda — mas estou no caminho. E o caminho, pra mim, é
 - Python · Pandas · Matplotlib
 
 **Banco de Dados**
+- SQL Server
 - PostgreSQL
 
 **Ferramentas**
